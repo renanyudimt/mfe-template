@@ -1,0 +1,14 @@
+{
+  "name": "mfe-template",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "dev": "nx run-many --target=serve --projects=container,mfe1,mfe2"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nx": "20.0.6"
+  },
+  "nx": {}
+}

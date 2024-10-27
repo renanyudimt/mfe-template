@@ -1,0 +1,11 @@
+[NX Daemon Server] - 2024-10-27T20:28:24.716Z - Started listening on: /var/folders/w6/lxckq7s943v36vx83ss3ykn80000gn/T/bba5cf85ab6f8093c48c/d.sock
+[NX Daemon Server] - 2024-10-27T20:28:24.717Z - [WATCHER]: Subscribed to changes within: /Users/renanymt/Sites/repos/mfe-template (native)
+[NX Daemon Server] - 2024-10-27T20:28:24.725Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-10-27T20:28:24.726Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-10-27T20:28:24.727Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-10-27T20:28:24.728Z - [REQUEST]: Responding to the client. Shutdown initiated
+[NX Daemon Server] - 2024-10-27T20:28:24.728Z - Done responding to the client Shutdown initiated
+[NX Daemon Server] - 2024-10-27T20:28:24.728Z - Handled FORCE_SHUTDOWN. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-10-27T20:28:24.729Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-10-27T20:28:24.729Z - [WATCHER]: Stopping the watcher for /Users/renanymt/Sites/repos/mfe-template (sources)
+[NX Daemon Server] - 2024-10-27T20:28:24.729Z - [WATCHER]: Stopping the watcher for /Users/renanymt/Sites/repos/mfe-template (outputs)
